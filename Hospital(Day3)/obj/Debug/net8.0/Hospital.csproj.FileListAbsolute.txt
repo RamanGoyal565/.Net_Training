@@ -1,0 +1,15 @@
+D:\Capgemini\HelloWorld\Hospital\bin\Debug\net8.0\Hospital.exe
+D:\Capgemini\HelloWorld\Hospital\bin\Debug\net8.0\Hospital.deps.json
+D:\Capgemini\HelloWorld\Hospital\bin\Debug\net8.0\Hospital.runtimeconfig.json
+D:\Capgemini\HelloWorld\Hospital\bin\Debug\net8.0\Hospital.dll
+D:\Capgemini\HelloWorld\Hospital\bin\Debug\net8.0\Hospital.pdb
+D:\Capgemini\HelloWorld\Hospital\obj\Debug\net8.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\HelloWorld\Hospital\obj\Debug\net8.0\Hospital.AssemblyInfoInputs.cache
+D:\Capgemini\HelloWorld\Hospital\obj\Debug\net8.0\Hospital.AssemblyInfo.cs
+D:\Capgemini\HelloWorld\Hospital\obj\Debug\net8.0\Hospital.csproj.CoreCompileInputs.cache
+D:\Capgemini\HelloWorld\Hospital\obj\Debug\net8.0\Hospital.sourcelink.json
+D:\Capgemini\HelloWorld\Hospital\obj\Debug\net8.0\Hospital.dll
+D:\Capgemini\HelloWorld\Hospital\obj\Debug\net8.0\refint\Hospital.dll
+D:\Capgemini\HelloWorld\Hospital\obj\Debug\net8.0\Hospital.pdb
+D:\Capgemini\HelloWorld\Hospital\obj\Debug\net8.0\Hospital.genruntimeconfig.cache
+D:\Capgemini\HelloWorld\Hospital\obj\Debug\net8.0\ref\Hospital.dll
