@@ -10,7 +10,6 @@ class SaleTransaction
     public double ProfitOrLossAmount{get;set;}
     public double ProfitMarginPercent{get;set;}
 }
-
 class InvoiceService
 {
     public static SaleTransaction LastTransaction;
@@ -24,8 +23,12 @@ class InvoiceService
             invoice.InvoiceNo = Console.ReadLine();
         }
         while (string.IsNullOrWhiteSpace(invoice.InvoiceNo));
-        Console.Write("Enter Customer Name: ");
-        invoice.CustomerName = Console.ReadLine();
+        do
+        {
+            Console.Write("Enter Customer Name: ");
+            invoice.CustomerName = Console.ReadLine();
+        }
+        while(!invoice.CustomerName.All(char.IsLetter));
         Console.Write("Enter Item Name: ");
         invoice.ItemName=Console.ReadLine();
         do

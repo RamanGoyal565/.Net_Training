@@ -1,14 +1,14 @@
 class PatientBill
 {
-    public string BillId;
-    public string PatientName;
-    public bool HasInsurance;
-    public double ConsultationFee;
-    public double LabCharges;
-    public double MedicineCharges;
-    public double GrossAmount;
-    public double DiscountAmount;
-    public double FinalPayable;
+    public string BillId{get;set;}
+    public string PatientName{get;set;}
+    public bool HasInsurance{get;set;}
+    public double ConsultationFee{get;set;}
+    public double LabCharges{get;set;}
+    public double MedicineCharges{get;set;}
+    public double GrossAmount{get;set;}
+    public double DiscountAmount{get;set;}
+    public double FinalPayable{get;set;}
 }
 
 class BillingService
@@ -24,8 +24,12 @@ class BillingService
             bill.BillId = Console.ReadLine();
         }
         while (string.IsNullOrWhiteSpace(bill.BillId));
-        Console.Write("Enter Patient Name: ");
-        bill.PatientName = Console.ReadLine();
+        do
+        {
+            Console.Write("Enter Patient Name: ");
+            bill.PatientName = Console.ReadLine();
+        }
+        while(!bill.PatientName.All(char.IsLetter));
         Console.Write("Is the patient insured? (Y/N): ");
         char ins = char.ToUpper(Console.ReadKey().KeyChar);
         Console.WriteLine();
