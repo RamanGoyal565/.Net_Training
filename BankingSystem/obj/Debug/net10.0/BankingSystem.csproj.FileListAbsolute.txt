@@ -1,0 +1,15 @@
+D:\Capgemini\HelloWorld\BankingSystem\bin\Debug\net10.0\BankingSystem.exe
+D:\Capgemini\HelloWorld\BankingSystem\bin\Debug\net10.0\BankingSystem.deps.json
+D:\Capgemini\HelloWorld\BankingSystem\bin\Debug\net10.0\BankingSystem.runtimeconfig.json
+D:\Capgemini\HelloWorld\BankingSystem\bin\Debug\net10.0\BankingSystem.dll
+D:\Capgemini\HelloWorld\BankingSystem\bin\Debug\net10.0\BankingSystem.pdb
+D:\Capgemini\HelloWorld\BankingSystem\obj\Debug\net10.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\HelloWorld\BankingSystem\obj\Debug\net10.0\BankingSystem.AssemblyInfoInputs.cache
+D:\Capgemini\HelloWorld\BankingSystem\obj\Debug\net10.0\BankingSystem.AssemblyInfo.cs
+D:\Capgemini\HelloWorld\BankingSystem\obj\Debug\net10.0\BankingSystem.csproj.CoreCompileInputs.cache
+D:\Capgemini\HelloWorld\BankingSystem\obj\Debug\net10.0\BankingSystem.sourcelink.json
+D:\Capgemini\HelloWorld\BankingSystem\obj\Debug\net10.0\BankingSystem.dll
+D:\Capgemini\HelloWorld\BankingSystem\obj\Debug\net10.0\refint\BankingSystem.dll
+D:\Capgemini\HelloWorld\BankingSystem\obj\Debug\net10.0\BankingSystem.pdb
+D:\Capgemini\HelloWorld\BankingSystem\obj\Debug\net10.0\BankingSystem.genruntimeconfig.cache
+D:\Capgemini\HelloWorld\BankingSystem\obj\Debug\net10.0\ref\BankingSystem.dll

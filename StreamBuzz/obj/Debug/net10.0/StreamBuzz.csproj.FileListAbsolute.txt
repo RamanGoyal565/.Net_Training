@@ -1,0 +1,15 @@
+D:\Capgemini\HelloWorld\StreamBuzz\bin\Debug\net10.0\StreamBuzz.exe
+D:\Capgemini\HelloWorld\StreamBuzz\bin\Debug\net10.0\StreamBuzz.deps.json
+D:\Capgemini\HelloWorld\StreamBuzz\bin\Debug\net10.0\StreamBuzz.runtimeconfig.json
+D:\Capgemini\HelloWorld\StreamBuzz\bin\Debug\net10.0\StreamBuzz.dll
+D:\Capgemini\HelloWorld\StreamBuzz\bin\Debug\net10.0\StreamBuzz.pdb
+D:\Capgemini\HelloWorld\StreamBuzz\obj\Debug\net10.0\StreamBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\HelloWorld\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfoInputs.cache
+D:\Capgemini\HelloWorld\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfo.cs
+D:\Capgemini\HelloWorld\StreamBuzz\obj\Debug\net10.0\StreamBuzz.csproj.CoreCompileInputs.cache
+D:\Capgemini\HelloWorld\StreamBuzz\obj\Debug\net10.0\StreamBuzz.sourcelink.json
+D:\Capgemini\HelloWorld\StreamBuzz\obj\Debug\net10.0\StreamBuzz.dll
+D:\Capgemini\HelloWorld\StreamBuzz\obj\Debug\net10.0\refint\StreamBuzz.dll
+D:\Capgemini\HelloWorld\StreamBuzz\obj\Debug\net10.0\StreamBuzz.pdb
+D:\Capgemini\HelloWorld\StreamBuzz\obj\Debug\net10.0\StreamBuzz.genruntimeconfig.cache
+D:\Capgemini\HelloWorld\StreamBuzz\obj\Debug\net10.0\ref\StreamBuzz.dll

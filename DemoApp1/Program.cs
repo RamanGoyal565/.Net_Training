@@ -1,8 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
-
-using System;
-using System.Globalization;
+﻿using System;
+using System.Text.RegularExpressions;
 class Program
 {
     static void Main(string[] args)
@@ -133,13 +130,27 @@ class Program
         // CollectionPrac obj=new CollectionPrac();
         // obj.Main();
 
-        FlipLogic obj=new FlipLogic();
-        Console.WriteLine("Enter the word");
-        string? word=Console.ReadLine();
-        string ans=obj.CleanseAndInvert(word);
-        if(!string.IsNullOrEmpty(ans))
-        Console.WriteLine("The generated key is - "+ans);
-        else
-        Console.WriteLine("Invalid Input"); 
+        // FlipLogic obj=new FlipLogic();
+        // Console.WriteLine("Enter the word");
+        // string? word=Console.ReadLine();
+        // string ans=obj.CleanseAndInvert(word);
+        // if(!string.IsNullOrEmpty(ans))
+        // Console.WriteLine("The generated key is - "+ans);
+        // else
+        // Console.WriteLine("Invalid Input"); 
+
+        // ExceptionHandling obj=new ExceptionHandling();
+        // obj.Run();
+
+        // BankAccount obj = new BankAccount(-898);
+        // obj.Withdraw(3423); 
+        // TryExcept obj=new TryExcept();
+        // obj.main();
+
+        // RegExpression obj=new RegExpression();
+        // obj.func1();
+
+        LogProcessing.LogParser obj=new LogProcessing.LogParser();
+        obj.main();
     }
 }

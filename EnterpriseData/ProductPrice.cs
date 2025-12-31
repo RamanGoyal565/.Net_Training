@@ -67,8 +67,12 @@ class Task2_BranchSales
         {
             for (int m = 0; m < SharedData.Months; m++)
             {
-                Console.Write($"Enter sales for Branch {b+1}, Month {m+1}: ");
-                SharedData.SalesData[b, m] = Int32.Parse(Console.ReadLine());
+                do
+                {
+                    Console.Write($"Enter sales for Branch {b+1}, Month {m+1}: ");
+                    SharedData.SalesData[b, m] = Int32.Parse(Console.ReadLine());    
+                }
+                while(SharedData.SalesData[b, m]<=0);
             }
         }
         int highest = int.MinValue;
