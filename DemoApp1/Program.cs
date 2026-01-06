@@ -150,7 +150,40 @@ class Program
         // RegExpression obj=new RegExpression();
         // obj.func1();
 
-        LogProcessing.LogParser obj=new LogProcessing.LogParser();
-        obj.main();
+        // LogProcessing.LogParser obj=new LogProcessing.LogParser();
+        // obj.main();
+
+        GarbageCollector.main();
+        // (int,string) data=(101,"Raman");
+        // var student=new {Id=101,Name="Amit"};
+        // Console.WriteLine(data.GetType());
+        // Console.WriteLine(student.GetType());
+
+        // Console.WriteLine(Calculate(45,23).sum);
+        // var response=ValidateUser("Admin");
+        // Console.WriteLine(response.message);
+
+        // var person=(Id:12,Name:"Raman");
+        // var(id,name)=person;
+        // Console.WriteLine(id);
+        // Console.WriteLine(id.GetType());
+
+        // var(_,userName)=person;
+        // Console.WriteLine(userName+" "+userName.GetType());
+
+        // var s = new StudentAnnonymys { Id = 1, Name = "Amit" };
+        // Console.WriteLine(s.GetType());
+        // var (sid, sname) = s;
+
+        // Console.WriteLine(sid);
+        // Console.WriteLine(sname);
+
+        // LINQ.main();
+
+        // using(ResourceHandler handler=new ResourceHandler())
+        // {
+        //     Console.WriteLine("Using Resource");
+        // }
+        // Console.WriteLine("End of Program");
     }
 }

@@ -1,0 +1,15 @@
+D:\Capgemini\HelloWorld\DemoApp1\bin\Debug\net10.0\DemoApp1.exe
+D:\Capgemini\HelloWorld\DemoApp1\bin\Debug\net10.0\DemoApp1.deps.json
+D:\Capgemini\HelloWorld\DemoApp1\bin\Debug\net10.0\DemoApp1.runtimeconfig.json
+D:\Capgemini\HelloWorld\DemoApp1\bin\Debug\net10.0\DemoApp1.dll
+D:\Capgemini\HelloWorld\DemoApp1\bin\Debug\net10.0\DemoApp1.pdb
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net10.0\DemoApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net10.0\DemoApp1.AssemblyInfoInputs.cache
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net10.0\DemoApp1.AssemblyInfo.cs
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net10.0\DemoApp1.csproj.CoreCompileInputs.cache
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net10.0\DemoApp1.sourcelink.json
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net10.0\DemoApp1.dll
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net10.0\refint\DemoApp1.dll
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net10.0\DemoApp1.pdb
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net10.0\DemoApp1.genruntimeconfig.cache
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net10.0\ref\DemoApp1.dll
