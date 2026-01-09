@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
+using System.Text.Json;
+using System.Xml.Serialization;
 class Program
 {
     static void Main(string[] args)
@@ -153,7 +155,7 @@ class Program
         // LogProcessing.LogParser obj=new LogProcessing.LogParser();
         // obj.main();
 
-        GarbageCollector.main();
+        // GarbageCollector.main();
         // (int,string) data=(101,"Raman");
         // var student=new {Id=101,Name="Amit"};
         // Console.WriteLine(data.GetType());
@@ -185,5 +187,68 @@ class Program
         //     Console.WriteLine("Using Resource");
         // }
         // Console.WriteLine("End of Program");
+       
+        // PaymentService service=new PaymentService();
+        // PaymentDelegate payment=null;
+        // payment+=service.RTGS;
+        // payment+=service.ProcessPayment;
+        // decimal amount=5000;
+        // if (amount.IsValidPayment())
+        // {
+        //     payment(amount);    
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Invalid payment found");
+        // }
+
+        // Action<string> logActivity=message=>
+        // Console.WriteLine("Log Activity: "+message);
+        // logActivity("User logged in at 10:30 AM");
+
+        // Func<decimal,decimal,decimal> calculateDiscount=(price,discount)=>price-(price*discount/100);
+        // Console.WriteLine(calculateDiscount(1000,10));
+
+        // Predicate<int> isEligible=age=>age>=18;
+        // Console.WriteLine(isEligible(20));
+
+        // Button btn=new Button();
+        // btn.Clicked+=()=>Console.WriteLine("Button Clicked");
+        // btn.Clicked+=()=>Console.WriteLine("Event triggered");
+        // btn.Clicked+=()=>Console.WriteLine("With help of Delegate");
+        // btn.Click();
+
+        // SmartHomeSecurity.Program.main();
+
+        // Comparison<int> sortDescending=(a,b)=>b.CompareTo(a);
+        // Console.WriteLine(sortDescending(5,10));
+        // Console.WriteLine(sortDescending(10,5));
+        // Console.WriteLine(sortDescending(5,5));
+        
+        // File_Program.main();
+
+        // Directory.CreateDirectory("Logs");
+        // if (Directory.Exists("Logs"))
+        // {
+        //     Console.WriteLine("Logs directory created successfully");
+        // }
+
+        // Directory_Program.main();
+
+        User user=new User{Id=1,Name="Raman"};
+        // string json=JsonSerializer.Serialize(user);
+        // File.WriteAllText("user.json",json);
+
+        // string json=File.ReadAllText("user.json");
+        // User user=JsonSerializer.Deserialize<User>(json);
+        // Console.WriteLine($"User Loaded: {user.Id},{user.Name}");
+
+        XmlSerializer ser=new XmlSerializer(typeof(User));
+        using(FileStream fs=new FileStream("user.xml",FileMode.Create))
+        {
+            ser.Serialize(fs,user);
+        }
+        Console.WriteLine("Xml Serialized");
+
     }
 }
