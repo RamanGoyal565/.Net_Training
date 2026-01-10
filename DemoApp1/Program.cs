@@ -235,7 +235,7 @@ class Program
 
         // Directory_Program.main();
 
-        User user=new User{Id=1,Name="Raman"};
+        // User user=new User{Id=1,Name="Raman"};
         // string json=JsonSerializer.Serialize(user);
         // File.WriteAllText("user.json",json);
 
@@ -243,12 +243,14 @@ class Program
         // User user=JsonSerializer.Deserialize<User>(json);
         // Console.WriteLine($"User Loaded: {user.Id},{user.Name}");
 
-        XmlSerializer ser=new XmlSerializer(typeof(User));
-        using(FileStream fs=new FileStream("user.xml",FileMode.Create))
-        {
-            ser.Serialize(fs,user);
-        }
-        Console.WriteLine("Xml Serialized");
-
+        // XmlSerializer ser=new XmlSerializer(typeof(User));
+        // using(FileStream fs=new FileStream("user.xml",FileMode.Create))
+        // {
+        //     ser.Serialize(fs,user);
+        // }
+        // Console.WriteLine("Xml Serialized");
+        
+        DialingCodes.Program.main();
+        Chocolate.main();
     }
 }

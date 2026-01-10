@@ -39,7 +39,7 @@ class Wallet
     }
 }
 
-class Math
+class Math1
 {
     public static int Add(int num1,int num2)
     {
