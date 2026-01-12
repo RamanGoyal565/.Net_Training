@@ -1,14 +1,13 @@
 using System.Linq;
 class Student1
 {
-    public string? Name;
+    public string Name;
     public int marks;
 }
 class LINQ
 {
     public static void main()
     {
-        int[] numbers={47,64,32,2,55,54};
         // var evenNumbers=numbers.Where(n=>n%2==0);
         // Console.WriteLine(evenNumbers.GetType());
         // Console.WriteLine("Even numbers are:");
@@ -22,20 +21,22 @@ class LINQ
         //     Console.Write(n+" ");
         // }
 
-        var ascen=numbers.OrderBy(n=>n);
-        var desc=numbers.OrderByDescending(n=>n);
-        foreach(var n in ascen)
-        {
-            Console.Write(n+" ");
-        }
-        foreach(var n in desc)
-        {
-            Console.Write(n+" ");
-        }
+        // var ascen=numbers.OrderBy(n=>n);
+        // var desc=numbers.OrderByDescending(n=>n);
+        // foreach(var n in ascen)
+        // {
+        //     Console.Write(n+" ");
+        // }
+        // Console.WriteLine();
+        // foreach(var n in desc)
+        // {
+        //     Console.Write(n+" ");
+        // }
+        // Console.WriteLine();
         Student1[] students =
         {
             new Student1{Name="Raman",marks=45},
-            new Student1{Name="Sandeep",marks=75},
+            new Student1{Name="Raman",marks=75},
             new Student1{Name="Amit",marks=56}
         };
         var asend=students.OrderBy(s=>s.marks);
@@ -50,5 +51,20 @@ class LINQ
         Console.WriteLine(result.GetType());
         result=result.ToList();
         Console.WriteLine(result.GetType());
+        var SortByName=students.OrderBy(s=>s.Name);
+        foreach(var i in SortByName)
+            Console.WriteLine(i.Name+" "+i.marks);
+        Console.WriteLine(SortByName.GetType());
+        var Sort=students.OrderBy(s=>s.Name).ThenBy(s=>s.marks);
+        foreach(var i in Sort)
+            Console.WriteLine(i.Name+" "+i.marks);
+        Console.WriteLine(Sort.GetType());   
+        int[] numbers={4,6,32,2,55,54};
+        var first=numbers.First();
+        var second=numbers.First(n=>n>10); 
+        Console.WriteLine(first+" "+second);
+        var last=numbers.Last();
+        var res=numbers.Last(n=>n<10);
+        Console.WriteLine(last+" "+res);
     }
 }

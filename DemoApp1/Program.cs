@@ -180,7 +180,7 @@ class Program
         // Console.WriteLine(sid);
         // Console.WriteLine(sname);
 
-        // LINQ.main();
+        LINQ.main();
 
         // using(ResourceHandler handler=new ResourceHandler())
         // {
@@ -250,7 +250,7 @@ class Program
         // }
         // Console.WriteLine("Xml Serialized");
         
-        DialingCodes.Program.main();
-        Chocolate.main();
+        // Debugging.main();
+        // Program_Debugging.main();
     }
 }

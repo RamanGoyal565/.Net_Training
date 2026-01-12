@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Capgemini\\HelloWorld\\SaturdayAssessments\\SugarBliss\\SugarBliss.csproj": {}
+    "d:\\Capgemini\\HelloWorld\\SaturdayAssessments\\SugarBliss\\SugarBliss.csproj": {}
   },
   "projects": {
-    "D:\\Capgemini\\HelloWorld\\SaturdayAssessments\\SugarBliss\\SugarBliss.csproj": {
+    "d:\\Capgemini\\HelloWorld\\SaturdayAssessments\\SugarBliss\\SugarBliss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Capgemini\\HelloWorld\\SaturdayAssessments\\SugarBliss\\SugarBliss.csproj",
+        "projectUniqueName": "d:\\Capgemini\\HelloWorld\\SaturdayAssessments\\SugarBliss\\SugarBliss.csproj",
         "projectName": "SugarBliss",
-        "projectPath": "D:\\Capgemini\\HelloWorld\\SaturdayAssessments\\SugarBliss\\SugarBliss.csproj",
+        "projectPath": "d:\\Capgemini\\HelloWorld\\SaturdayAssessments\\SugarBliss\\SugarBliss.csproj",
         "packagesPath": "C:\\Users\\Arora Computers\\.nuget\\packages\\",
-        "outputPath": "D:\\Capgemini\\HelloWorld\\SaturdayAssessments\\SugarBliss\\obj\\",
+        "outputPath": "d:\\Capgemini\\HelloWorld\\SaturdayAssessments\\SugarBliss\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

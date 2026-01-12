@@ -1,6 +1,8 @@
-﻿class Program{
+﻿using System.Diagnostics;
+class Program{
     public static void Main(string[] args)
     {
+        Trace.WriteLine("Application execution started");
         Chocolate obj=new Chocolate();
         Console.WriteLine("Enter Chocolate Flavour");
         obj.Flavour=Console.ReadLine();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SugarBliss")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+228a396771506f57b6903d3623a57baa77237cf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6c718f60898b4aea5f4777a693132b4fd6b2581")]
 [assembly: System.Reflection.AssemblyProductAttribute("SugarBliss")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SugarBliss")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

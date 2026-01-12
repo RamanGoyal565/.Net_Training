@@ -1,8 +1,9 @@
-public class User
-{
-    public int Id{get;set;}
-    public string Name{get;set;}
-}
+// public class User
+// {
+//     public int Id{get;set;}
+//     public int age{get;set;} 
+//     public string Name{get;set;}
+// }
 class File_Program
 {
     public static void main()
