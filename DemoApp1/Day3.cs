@@ -15,11 +15,20 @@ using System.Security.Principal;
 // acc1.balance=10000;
 class Employee
 {
-    public String name;
-    public double salary;
+    public String Name{get;set;}
+    private double salary;
+    public Employee()
+    {
+        Console.WriteLine("No parameter Constructor");
+    }
+    public Employee(string name,double salary)
+    {
+        Name=name;
+        this.salary=salary;
+    }
     public void DisplayDetails()
     {
-        Console.WriteLine(name+"earns"+salary);
+        Console.WriteLine(Name+" earns "+salary);
     }   
 }
 // Employee emp1=new Employee();

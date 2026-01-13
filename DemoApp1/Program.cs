@@ -180,7 +180,7 @@ class Program
         // Console.WriteLine(sid);
         // Console.WriteLine(sname);
 
-        LINQ.main();
+        // LINQ.main();
 
         // using(ResourceHandler handler=new ResourceHandler())
         // {
@@ -252,5 +252,7 @@ class Program
         
         // Debugging.main();
         // Program_Debugging.main();
+
+        Assemblies_Reflection.main();
     }
 }
