@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
-
 namespace MiniSocialMedia
 {
     class Program
@@ -69,12 +68,12 @@ namespace MiniSocialMedia
             string username = Console.ReadLine();
             Console.Write("Email: ");
             string email = Console.ReadLine();
-            User? user = _users.Find(u =>
-                string.Equals(u.Username, username, StringComparison.OrdinalIgnoreCase));
-            if (user != null)
+            if(_users.Find(u =>string.Equals(u.Username, username, StringComparison.OrdinalIgnoreCase))
+            !=null)
             {
                 Console.WriteLine("User already exist");
                 return;
+            }
             User user = new User(username, email);
             _users.Add(user);
             Console.WriteLine($"Welcome, {user.ToString()}!");

@@ -79,7 +79,7 @@ namespace MiniSocialMedia
         public DateTime CreatedAt{get;}=DateTime.UtcNow;
         public Post(User author,string content)
         {
-            Author=author??ArgumentNullException("Author cannot be null.");;
+            Author=author??throw new ArgumentNullException("Author cannot be null.");;
             Content=content;
         }
         public Post(User author, string content, DateTime createdAt)
