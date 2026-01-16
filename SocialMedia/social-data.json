@@ -1,0 +1,30 @@
+[
+  {
+    "Username": "raman",
+    "Email": "ramangoyal565@gmail.com",
+    "Following": [
+      "ayush"
+    ],
+    "Posts": [
+      {
+        "Content": "sdsdd jdfsui dfsdlf",
+        "CreatedAt": "2026-01-16T05:48:07.164062Z"
+      },
+      {
+        "Content": "kdsfus kdjfdu dfusdy",
+        "CreatedAt": "2026-01-16T05:48:12.4941419Z"
+      }
+    ]
+  },
+  {
+    "Username": "ayush",
+    "Email": "ayush@gmail.com",
+    "Following": [],
+    "Posts": [
+      {
+        "Content": "fsdf jfisdflui dsfsu sdfgus dfyus",
+        "CreatedAt": "2026-01-16T05:48:47.1110066Z"
+      }
+    ]
+  }
+]
