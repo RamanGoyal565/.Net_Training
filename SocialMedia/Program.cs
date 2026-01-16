@@ -75,7 +75,6 @@ namespace MiniSocialMedia
             {
                 Console.WriteLine("User already exist");
                 return;
-            }
             User user = new User(username, email);
             _users.Add(user);
             Console.WriteLine($"Welcome, {user.ToString()}!");
@@ -148,8 +147,7 @@ namespace MiniSocialMedia
                 if (user != null)
                     timeline.AddRange(user.GetPosts());
             }
-            var ordered = timeline
-                .OrderByDescending(p => p.CreatedAt).Take(20);
+            var ordered = timeline.OrderByDescending(p => p.CreatedAt).Take(20);
             Console.WriteLine("=== Your Timeline ===");
             ShowPosts(ordered);
         }
@@ -181,7 +179,6 @@ namespace MiniSocialMedia
                 Console.WriteLine("User not found");
                 return;
             }
-            
             _currentUser.Follow(name);
             Console.WriteLine($"Now following @{name}");
         }
@@ -194,32 +191,66 @@ namespace MiniSocialMedia
         {
             try
             {
-                var json = JsonSerializer.Serialize(_users.GetAll());
+                var dataToSave = _users.GetAll().Select(u => new
+                {
+                    Username = u.Username,
+                    Email = u.Email,
+                    Following = u.GetFollowingNames().ToList(),
+                    Posts = u.GetPosts().Select(p => new
+                    {
+                        Content = p.Content,
+                        CreatedAt = p.CreatedAt
+                    }).ToList()
+                }).ToList();
+                var options = new JsonSerializerOptions{WriteIndented = true};
+                string json = JsonSerializer.Serialize(dataToSave, options);
                 File.WriteAllText(_dataFile, json);
+                Console.WriteLine("Data saved.");
             }
             catch (Exception ex)
             {
                 LogError(ex);
+                Console.WriteLine("Failed to save data.");
             }
         }
-
         static void LoadData()
         {
             try
             {
-                if (!File.Exists(_dataFile)) return;
-                var json = File.ReadAllText(_dataFile);
-                var users = JsonSerializer.Deserialize<List<User>>(json);
-                if (users != null)
-                    foreach (var u in users)
+                if (!File.Exists(_dataFile))
+                    return;
+                string json = File.ReadAllText(_dataFile);
+                using JsonDocument document = JsonDocument.Parse(json);
+                foreach (var userElement in document.RootElement.EnumerateArray())
+                {
+                    string username = userElement.GetProperty("Username").GetString()!;
+                    string email = userElement.GetProperty("Email").GetString();
+                    var user = new User(username, email);
+                    if (userElement.TryGetProperty("Following", out var following))
                     {
-                        _users.Add(u);
-                        Console.WriteLine(u.GetDisplayName);
+                        foreach (var f in following.EnumerateArray())
+                        {
+                            user.Follow(f.GetString()!);
+                        }
                     }
+                    if (userElement.TryGetProperty("Posts", out var posts))
+                    {
+                        foreach (var p in posts.EnumerateArray())
+                        {
+                            string content = p.GetProperty("Content").GetString();
+                            DateTime createdAt = p.GetProperty("CreatedAt").GetDateTime();
+                            var post = new Post(user, content, createdAt);
+                            user.AddLoadedPost(post);
+                        }
+                    }
+                    _users.Add(user);
+                }
+                Console.WriteLine("Data loaded");
             }
             catch (Exception ex)
             {
                 LogError(ex);
+                Console.WriteLine("Failed to load data.");
             }
         }
         static void LogError(Exception ex)

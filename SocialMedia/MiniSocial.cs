@@ -79,10 +79,14 @@ namespace MiniSocialMedia
         public DateTime CreatedAt{get;}=DateTime.UtcNow;
         public Post(User author,string content)
         {
-            if(author==null)
-                throw new ArgumentException("Author cannot be null.");
-            Author=author;
+            Author=author??ArgumentNullException("Author cannot be null.");;
             Content=content;
+        }
+        public Post(User author, string content, DateTime createdAt)
+        {
+            Author = author ?? throw new ArgumentNullException(nameof(author));
+            Content = content;
+            CreatedAt = createdAt;
         }
         public override string ToString()
         {
@@ -132,6 +136,15 @@ namespace MiniSocialMedia
                            System.Reflection.BindingFlags.NonPublic |
                            System.Reflection.BindingFlags.Instance)!
                        .GetValue(user) as IEnumerable<string>;
+        }
+        public static void AddLoadedPost(this User user, Post post)
+        {
+            var postsField = typeof(User)
+                .GetField("_posts",
+                    System.Reflection.BindingFlags.NonPublic |
+                    System.Reflection.BindingFlags.Instance)!;
+
+            ((List<Post>)postsField.GetValue(user)!).Add(post);
         }
     }
 }
