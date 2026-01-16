@@ -1,0 +1,15 @@
+D:\Capgemini\HelloWorld\SocialMedia\bin\Debug\net10.0\SocialMedia.exe
+D:\Capgemini\HelloWorld\SocialMedia\bin\Debug\net10.0\SocialMedia.deps.json
+D:\Capgemini\HelloWorld\SocialMedia\bin\Debug\net10.0\SocialMedia.runtimeconfig.json
+D:\Capgemini\HelloWorld\SocialMedia\bin\Debug\net10.0\SocialMedia.dll
+D:\Capgemini\HelloWorld\SocialMedia\bin\Debug\net10.0\SocialMedia.pdb
+D:\Capgemini\HelloWorld\SocialMedia\obj\Debug\net10.0\SocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\HelloWorld\SocialMedia\obj\Debug\net10.0\SocialMedia.AssemblyInfoInputs.cache
+D:\Capgemini\HelloWorld\SocialMedia\obj\Debug\net10.0\SocialMedia.AssemblyInfo.cs
+D:\Capgemini\HelloWorld\SocialMedia\obj\Debug\net10.0\SocialMedia.csproj.CoreCompileInputs.cache
+D:\Capgemini\HelloWorld\SocialMedia\obj\Debug\net10.0\SocialMedia.sourcelink.json
+D:\Capgemini\HelloWorld\SocialMedia\obj\Debug\net10.0\SocialMedia.dll
+D:\Capgemini\HelloWorld\SocialMedia\obj\Debug\net10.0\refint\SocialMedia.dll
+D:\Capgemini\HelloWorld\SocialMedia\obj\Debug\net10.0\SocialMedia.pdb
+D:\Capgemini\HelloWorld\SocialMedia\obj\Debug\net10.0\SocialMedia.genruntimeconfig.cache
+D:\Capgemini\HelloWorld\SocialMedia\obj\Debug\net10.0\ref\SocialMedia.dll

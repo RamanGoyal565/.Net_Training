@@ -2,6 +2,8 @@
 using System.Text.RegularExpressions;
 using System.Text.Json;
 using System.Xml.Serialization;
+using System.Threading.Tasks;
+using System.Diagnostics;
 class Program
 {
     static void Main(string[] args)
@@ -253,6 +255,43 @@ class Program
         // Debugging.main();
         // Program_Debugging.main();
 
-        Assemblies_Reflection.main();
+        // Assemblies_Reflection.main();
+        // Threading_Prac.main();
+        // int[] numbers=new int[10];
+        // for(int i=0;i<numbers.Length;i++)
+        // numbers[i]=i+1;
+        // int sum=0;
+        // Parallel.For(0,numbers.Length,i=>
+        // {
+        //     sum+=numbers[i];
+        //     // Console.WriteLine(numbers[i]+" "+sum);
+        // });
+        // Console.WriteLine(sum);
+        // sum=0;
+        // Parallel.For(0,numbers.Length,()=>0,(i,loopState,localSum)=>
+        // {
+        //     return localSum+numbers[i];
+        // },localSum=>Interlocked.Add(ref sum,localSum));
+        // Console.WriteLine(sum);
+
+
+        Process_Prac.main();
     }
+    // static async Task<int> GetDataAsync()
+    // {
+    //     Console.WriteLine(DateTime.Now);
+    //     await Task.Delay(1000);
+    //     return 42;
+    // }
+    // static async Task Main()
+    // {
+    //     Console.WriteLine(DateTime.Now);
+    //     Console.WriteLine("start Reading File ");
+    //     string content=await File.ReadAllTextAsync("data.txt");
+    //     Console.WriteLine("File content:");
+    //     Console.WriteLine(content);
+    //     Console.WriteLine(DateTime.Now);
+    //     Console.WriteLine(await GetDataAsync());
+    //     Console.WriteLine(DateTime.Now);
+    // }
 }
