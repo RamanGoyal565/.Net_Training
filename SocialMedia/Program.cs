@@ -29,6 +29,7 @@ namespace MiniSocialMedia
                 catch (SocialException ex)
                 {
                     ConsoleColorWrite(ConsoleColor.Red, $"Error: {ex.Message}");
+                    LogError(ex);
                 }
                 catch (Exception ex)
                 {
@@ -229,7 +230,7 @@ namespace MiniSocialMedia
                     {
                         foreach (var f in following.EnumerateArray())
                         {
-                            user.Follow(f.GetString()!);
+                            user.Follow(f.GetString());
                         }
                     }
                     if (userElement.TryGetProperty("Posts", out var posts))

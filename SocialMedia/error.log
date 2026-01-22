@@ -1,0 +1,13 @@
+16-01-2026 14:43:58
+User not found
+   at MiniSocialMedia.Program.Login() in D:\Capgemini\HelloWorld\SocialMedia\Program.cs:line 89
+   at MiniSocialMedia.Program.ShowLoginMenu() in D:\Capgemini\HelloWorld\SocialMedia\Program.cs:line 56
+   at MiniSocialMedia.Program.Main() in D:\Capgemini\HelloWorld\SocialMedia\Program.cs:line 25
+
+16-01-2026 14:45:02
+Invalid email format
+   at MiniSocialMedia.User..ctor(String username, String email) in D:\Capgemini\HelloWorld\SocialMedia\MiniSocial.cs:line 29
+   at MiniSocialMedia.Program.Register() in D:\Capgemini\HelloWorld\SocialMedia\Program.cs:line 78
+   at MiniSocialMedia.Program.ShowLoginMenu() in D:\Capgemini\HelloWorld\SocialMedia\Program.cs:line 55
+   at MiniSocialMedia.Program.Main() in D:\Capgemini\HelloWorld\SocialMedia\Program.cs:line 25
+

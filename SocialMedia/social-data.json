@@ -7,11 +7,11 @@
     ],
     "Posts": [
       {
-        "Content": "sdsdd jdfsui dfsdlf",
+        "Content": "Hello there #C# #Net",
         "CreatedAt": "2026-01-16T05:48:07.164062Z"
       },
       {
-        "Content": "kdsfus kdjfdu dfusdy",
+        "Content": "Created project #Fullstack",
         "CreatedAt": "2026-01-16T05:48:12.4941419Z"
       }
     ]
@@ -22,8 +22,34 @@
     "Following": [],
     "Posts": [
       {
-        "Content": "fsdf jfisdflui dsfsu sdfgus dfyus",
+        "Content": "First post #socialmedia",
         "CreatedAt": "2026-01-16T05:48:47.1110066Z"
+      }
+    ]
+  },
+  {
+    "Username": "satyam",
+    "Email": "thakursatyam@gmail.com",
+    "Following": [],
+    "Posts": [
+      {
+        "Content": "#thakur",
+        "CreatedAt": "2026-01-16T09:17:37.4028671Z"
+      },
+      {
+        "Content": "#satyam",
+        "CreatedAt": "2026-01-16T09:26:03.5230725Z"
+      }
+    ]
+  },
+  {
+    "Username": "sandeep",
+    "Email": "sandeep@outlook.com",
+    "Following": [],
+    "Posts": [
+      {
+        "Content": "#Carrom jdbuif",
+        "CreatedAt": "2026-01-16T09:23:26.9452044Z"
       }
     ]
   }

@@ -274,8 +274,7 @@ class Program
         // },localSum=>Interlocked.Add(ref sum,localSum));
         // Console.WriteLine(sum);
 
-
-        Process_Prac.main();
+        // Process_Prac.main();
     }
     // static async Task<int> GetDataAsync()
     // {
