@@ -1,0 +1,15 @@
+D:\Capgemini\HelloWorld\PLTDoc\bin\Debug\net10.0\PLTDoc.exe
+D:\Capgemini\HelloWorld\PLTDoc\bin\Debug\net10.0\PLTDoc.deps.json
+D:\Capgemini\HelloWorld\PLTDoc\bin\Debug\net10.0\PLTDoc.runtimeconfig.json
+D:\Capgemini\HelloWorld\PLTDoc\bin\Debug\net10.0\PLTDoc.dll
+D:\Capgemini\HelloWorld\PLTDoc\bin\Debug\net10.0\PLTDoc.pdb
+D:\Capgemini\HelloWorld\PLTDoc\obj\Debug\net10.0\PLTDoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\HelloWorld\PLTDoc\obj\Debug\net10.0\PLTDoc.AssemblyInfoInputs.cache
+D:\Capgemini\HelloWorld\PLTDoc\obj\Debug\net10.0\PLTDoc.AssemblyInfo.cs
+D:\Capgemini\HelloWorld\PLTDoc\obj\Debug\net10.0\PLTDoc.csproj.CoreCompileInputs.cache
+D:\Capgemini\HelloWorld\PLTDoc\obj\Debug\net10.0\PLTDoc.sourcelink.json
+D:\Capgemini\HelloWorld\PLTDoc\obj\Debug\net10.0\PLTDoc.dll
+D:\Capgemini\HelloWorld\PLTDoc\obj\Debug\net10.0\refint\PLTDoc.dll
+D:\Capgemini\HelloWorld\PLTDoc\obj\Debug\net10.0\PLTDoc.pdb
+D:\Capgemini\HelloWorld\PLTDoc\obj\Debug\net10.0\PLTDoc.genruntimeconfig.cache
+D:\Capgemini\HelloWorld\PLTDoc\obj\Debug\net10.0\ref\PLTDoc.dll
