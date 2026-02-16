@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BookStoreApplication/BookStoreApplication.csproj" />
+  <Project Path="HealthSync/HealthSync.csproj" Id="29d2931a-4960-4d66-b38c-a3b39254a1e4" />
+  <Project Path="LogisticsPro/LogisticsPro.csproj" />
+</Solution>

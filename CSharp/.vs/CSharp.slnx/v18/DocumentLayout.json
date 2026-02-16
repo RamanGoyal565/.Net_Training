@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|d:\\capgemini\\csharp\\linq\\defferedexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|solutionrelative:linq\\defferedexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|d:\\capgemini\\csharp\\linq\\stringlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|solutionrelative:linq\\stringlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|d:\\capgemini\\csharp\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|d:\\capgemini\\csharp\\linq\\dividelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|solutionrelative:linq\\dividelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|d:\\capgemini\\csharp\\linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|solutionrelative:linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|d:\\capgemini\\csharp\\linq\\stringmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|Linq\\Linq.csproj|solutionrelative:linq\\stringmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringList.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CSharp\\Linq\\StringList.cs",
+              "RelativeDocumentMoniker": "Linq\\StringList.cs",
+              "ToolTip": "D:\\Capgemini\\CSharp\\Linq\\StringList.cs",
+              "RelativeToolTip": "Linq\\StringList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T06:01:39.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CSharp\\Linq\\Student.cs",
+              "RelativeDocumentMoniker": "Linq\\Student.cs",
+              "ToolTip": "D:\\Capgemini\\CSharp\\Linq\\Student.cs",
+              "RelativeToolTip": "Linq\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T04:54:45.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DivideList.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CSharp\\Linq\\DivideList.cs",
+              "RelativeDocumentMoniker": "Linq\\DivideList.cs",
+              "ToolTip": "D:\\Capgemini\\CSharp\\Linq\\DivideList.cs",
+              "RelativeToolTip": "Linq\\DivideList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T04:34:44.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefferedExecution.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CSharp\\Linq\\DefferedExecution.cs",
+              "RelativeDocumentMoniker": "Linq\\DefferedExecution.cs",
+              "ToolTip": "D:\\Capgemini\\CSharp\\Linq\\DefferedExecution.cs",
+              "RelativeToolTip": "Linq\\DefferedExecution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T04:23:48.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringManipulation.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CSharp\\Linq\\StringManipulation.cs",
+              "RelativeDocumentMoniker": "Linq\\StringManipulation.cs",
+              "ToolTip": "D:\\Capgemini\\CSharp\\Linq\\StringManipulation.cs",
+              "RelativeToolTip": "Linq\\StringManipulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T04:07:12.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CSharp\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "D:\\Capgemini\\CSharp\\Linq\\Program.cs",
+              "RelativeToolTip": "Linq\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T04:02:58.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

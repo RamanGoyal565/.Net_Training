@@ -1,0 +1,51 @@
+using System;
+
+namespace BookStoreApplication
+{
+    public class InvalidBookDataExecption : Exception
+    {
+        public InvalidBookDataExecption(string message) : base(message) { }
+    }
+    public class BookUtility
+    {
+        private Book _book;
+
+        public BookUtility(Book book)
+        {
+            // TODO: Assign book object
+            _book = book;
+        }
+
+        public void GetBookDetails()
+        {
+            // TODO:
+            // Print format:
+            // Details: <BookId> <Title> <Price> <Stock>
+            Console.WriteLine($"Details: {_book.Id} {_book.Title} {_book.Price} {_book.Stock}");
+        }
+
+        public void UpdateBookPrice(int newPrice)
+        {
+            // TODO:
+            // Validate new price
+            // Update price
+            // Print: Updated Price: <newPrice>
+            if (newPrice < 0)
+                throw new InvalidBookDataExecption("Price is less than zero");
+            _book.Price = newPrice;
+            Console.WriteLine($"Updated Price: {_book.Price}");
+        }
+
+        public void UpdateBookStock(int newStock)
+        {
+            // TODO:
+            // Validate new stock
+            // Update stock
+            // Print: Updated Stock: <newStock>
+            if (newStock < 0)
+                throw new InvalidBookDataExecption("Stock is less than zero");
+            _book.Stock = newStock;
+            Console.WriteLine($"Updated Stock: {_book.Stock}");
+        }
+    }
+}
