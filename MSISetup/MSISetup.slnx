@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="MSISetup/MSISetup.csproj" />
-  <Project Path="SetupDemo/SetupDemo.vdproj" Type="Installer">
-    <Build />
-  </Project>
-</Solution>
