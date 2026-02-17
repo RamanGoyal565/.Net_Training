@@ -1,0 +1,5 @@
+# Ignore Visual Studio solution extension files
+*.slnx
+
+# Ignore Visual Studio workspace folder
+.vs/

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Capgemini\\Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74735566-3423-4695-BE22-BAE7AE405CBD}|E-CommerceIS\\E-CommerceIS.csproj|d:\\capgemini\\assignment\\e-commerceis\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74735566-3423-4695-BE22-BAE7AE405CBD}|E-CommerceIS\\E-CommerceIS.csproj|solutionrelative:e-commerceis\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34E9872F-B49B-4B8B-9CC0-5BAAD95FFF2F}|SensorData\\SensorData.csproj|d:\\capgemini\\assignment\\sensordata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9872F-B49B-4B8B-9CC0-5BAAD95FFF2F}|SensorData\\SensorData.csproj|solutionrelative:sensordata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74735566-3423-4695-BE22-BAE7AE405CBD}|E-CommerceIS\\E-CommerceIS.csproj|d:\\capgemini\\assignment\\e-commerceis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74735566-3423-4695-BE22-BAE7AE405CBD}|E-CommerceIS\\E-CommerceIS.csproj|solutionrelative:e-commerceis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34E9872F-B49B-4B8B-9CC0-5BAAD95FFF2F}|SensorData\\SensorData.csproj|d:\\capgemini\\assignment\\sensordata\\processinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E9872F-B49B-4B8B-9CC0-5BAAD95FFF2F}|SensorData\\SensorData.csproj|solutionrelative:sensordata\\processinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Capgemini\\Assignment\\E-CommerceIS\\Program.cs",
-              "RelativeDocumentMoniker": "E-CommerceIS\\Program.cs",
-              "ToolTip": "D:\\Capgemini\\Assignment\\E-CommerceIS\\Program.cs",
-              "RelativeToolTip": "E-CommerceIS\\Program.cs",
-              "ViewState": "AgIAAFAAAAAANDMzMzPzv2kAAAAgAAAAAAAAAA==",
+              "Title": "ProcessInput.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Assignment\\SensorData\\ProcessInput.cs",
+              "RelativeDocumentMoniker": "SensorData\\ProcessInput.cs",
+              "ToolTip": "D:\\Capgemini\\Assignment\\SensorData\\ProcessInput.cs",
+              "RelativeToolTip": "SensorData\\ProcessInput.cs",
+              "ViewState": "AgIAAB0AAAAAYJmZmZnJvw4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T10:01:05.404Z",
+              "WhenOpened": "2026-02-17T11:17:41.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Capgemini\\Assignment\\E-CommerceIS\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "E-CommerceIS\\ProductRepository.cs",
-              "ToolTip": "D:\\Capgemini\\Assignment\\E-CommerceIS\\ProductRepository.cs",
-              "RelativeToolTip": "E-CommerceIS\\ProductRepository.cs",
-              "ViewState": "AgIAAGAAAAAAAwAAAAAcwHMAAAAlAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Assignment\\SensorData\\Program.cs",
+              "RelativeDocumentMoniker": "SensorData\\Program.cs",
+              "ToolTip": "D:\\Capgemini\\Assignment\\SensorData\\Program.cs",
+              "RelativeToolTip": "SensorData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T09:11:04.019Z",
+              "WhenOpened": "2026-02-17T10:23:18.227Z",
               "EditorCaption": ""
             }
           ]
