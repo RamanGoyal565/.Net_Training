@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\MSISetup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{337C0150-970E-B101-D33E-78E2AFA825C4}|MSISetup\\MSISetup.csproj|d:\\capgemini\\msisetup\\msisetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337C0150-970E-B101-D33E-78E2AFA825C4}|MSISetup\\MSISetup.csproj|solutionrelative:msisetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\MSISetup\\MSISetup\\Program.cs",
+              "RelativeDocumentMoniker": "MSISetup\\Program.cs",
+              "ToolTip": "D:\\Capgemini\\MSISetup\\MSISetup\\Program.cs",
+              "RelativeToolTip": "MSISetup\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:42:08.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

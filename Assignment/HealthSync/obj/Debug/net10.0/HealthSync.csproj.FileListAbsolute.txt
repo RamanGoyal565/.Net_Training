@@ -12,3 +12,18 @@ C:\Users\Arora Computers\Downloads\Assignment\HealthSync\obj\Debug\net10.0\refin
 C:\Users\Arora Computers\Downloads\Assignment\HealthSync\obj\Debug\net10.0\HealthSync.pdb
 C:\Users\Arora Computers\Downloads\Assignment\HealthSync\obj\Debug\net10.0\HealthSync.genruntimeconfig.cache
 C:\Users\Arora Computers\Downloads\Assignment\HealthSync\obj\Debug\net10.0\ref\HealthSync.dll
+D:\Capgemini\Assignment\HealthSync\bin\Debug\net10.0\HealthSync.exe
+D:\Capgemini\Assignment\HealthSync\bin\Debug\net10.0\HealthSync.deps.json
+D:\Capgemini\Assignment\HealthSync\bin\Debug\net10.0\HealthSync.runtimeconfig.json
+D:\Capgemini\Assignment\HealthSync\bin\Debug\net10.0\HealthSync.dll
+D:\Capgemini\Assignment\HealthSync\bin\Debug\net10.0\HealthSync.pdb
+D:\Capgemini\Assignment\HealthSync\obj\Debug\net10.0\HealthSync.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\Assignment\HealthSync\obj\Debug\net10.0\HealthSync.AssemblyInfoInputs.cache
+D:\Capgemini\Assignment\HealthSync\obj\Debug\net10.0\HealthSync.AssemblyInfo.cs
+D:\Capgemini\Assignment\HealthSync\obj\Debug\net10.0\HealthSync.csproj.CoreCompileInputs.cache
+D:\Capgemini\Assignment\HealthSync\obj\Debug\net10.0\HealthSync.sourcelink.json
+D:\Capgemini\Assignment\HealthSync\obj\Debug\net10.0\HealthSync.dll
+D:\Capgemini\Assignment\HealthSync\obj\Debug\net10.0\refint\HealthSync.dll
+D:\Capgemini\Assignment\HealthSync\obj\Debug\net10.0\HealthSync.pdb
+D:\Capgemini\Assignment\HealthSync\obj\Debug\net10.0\HealthSync.genruntimeconfig.cache
+D:\Capgemini\Assignment\HealthSync\obj\Debug\net10.0\ref\HealthSync.dll

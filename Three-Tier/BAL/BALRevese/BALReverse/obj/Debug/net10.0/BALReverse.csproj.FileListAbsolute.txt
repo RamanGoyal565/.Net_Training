@@ -1,0 +1,16 @@
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\BALReverse.csproj.AssemblyReference.cache
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\BALReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\BALReverse.AssemblyInfoInputs.cache
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\BALReverse.AssemblyInfo.cs
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\BALReverse.csproj.CoreCompileInputs.cache
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\BALReverse.sourcelink.json
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\bin\Debug\net10.0\BALReverse.deps.json
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\bin\Debug\net10.0\BALReverse.dll
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\bin\Debug\net10.0\BALReverse.pdb
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\bin\Debug\net10.0\DALReverse.dll
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\bin\Debug\net10.0\DALReverse.pdb
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\BALReverse.csproj.Up2Date
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\BALReverse.dll
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\refint\BALReverse.dll
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\BALReverse.pdb
+D:\Capgemini\MVC\BAL\BALRevese\BALReverse\obj\Debug\net10.0\ref\BALReverse.dll

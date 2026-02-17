@@ -26,3 +26,18 @@ C:\Users\Arora Computers\Downloads\Assignment\LogisticsPro\bin\Debug\net10.0\Log
 C:\Users\Arora Computers\Downloads\Assignment\LogisticsPro\bin\Debug\net10.0\LogisticsPro.pdb
 C:\Users\Arora Computers\Downloads\Assignment\LogisticsPro\obj\Debug\net10.0\LogisticsPro.genruntimeconfig.cache
 C:\Users\Arora Computers\Downloads\Assignment\LogisticsPro\obj\Debug\net10.0\ref\LogisticsPro.dll
+D:\Capgemini\Assignment\LogisticsPro\bin\Debug\net10.0\LogisticsPro.exe
+D:\Capgemini\Assignment\LogisticsPro\bin\Debug\net10.0\LogisticsPro.deps.json
+D:\Capgemini\Assignment\LogisticsPro\bin\Debug\net10.0\LogisticsPro.runtimeconfig.json
+D:\Capgemini\Assignment\LogisticsPro\bin\Debug\net10.0\LogisticsPro.dll
+D:\Capgemini\Assignment\LogisticsPro\bin\Debug\net10.0\LogisticsPro.pdb
+D:\Capgemini\Assignment\LogisticsPro\obj\Debug\net10.0\LogisticsPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\Assignment\LogisticsPro\obj\Debug\net10.0\LogisticsPro.AssemblyInfoInputs.cache
+D:\Capgemini\Assignment\LogisticsPro\obj\Debug\net10.0\LogisticsPro.AssemblyInfo.cs
+D:\Capgemini\Assignment\LogisticsPro\obj\Debug\net10.0\LogisticsPro.csproj.CoreCompileInputs.cache
+D:\Capgemini\Assignment\LogisticsPro\obj\Debug\net10.0\LogisticsPro.sourcelink.json
+D:\Capgemini\Assignment\LogisticsPro\obj\Debug\net10.0\LogisticsPro.dll
+D:\Capgemini\Assignment\LogisticsPro\obj\Debug\net10.0\refint\LogisticsPro.dll
+D:\Capgemini\Assignment\LogisticsPro\obj\Debug\net10.0\LogisticsPro.pdb
+D:\Capgemini\Assignment\LogisticsPro\obj\Debug\net10.0\LogisticsPro.genruntimeconfig.cache
+D:\Capgemini\Assignment\LogisticsPro\obj\Debug\net10.0\ref\LogisticsPro.dll

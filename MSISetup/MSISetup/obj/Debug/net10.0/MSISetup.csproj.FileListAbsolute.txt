@@ -1,0 +1,15 @@
+D:\Capgemini\MSISetup\MSISetup\bin\Debug\net10.0\MSISetup.exe
+D:\Capgemini\MSISetup\MSISetup\bin\Debug\net10.0\MSISetup.deps.json
+D:\Capgemini\MSISetup\MSISetup\bin\Debug\net10.0\MSISetup.runtimeconfig.json
+D:\Capgemini\MSISetup\MSISetup\bin\Debug\net10.0\MSISetup.dll
+D:\Capgemini\MSISetup\MSISetup\bin\Debug\net10.0\MSISetup.pdb
+D:\Capgemini\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.AssemblyInfoInputs.cache
+D:\Capgemini\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.AssemblyInfo.cs
+D:\Capgemini\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.csproj.CoreCompileInputs.cache
+D:\Capgemini\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.sourcelink.json
+D:\Capgemini\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.dll
+D:\Capgemini\MSISetup\MSISetup\obj\Debug\net10.0\refint\MSISetup.dll
+D:\Capgemini\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.pdb
+D:\Capgemini\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.genruntimeconfig.cache
+D:\Capgemini\MSISetup\MSISetup\obj\Debug\net10.0\ref\MSISetup.dll

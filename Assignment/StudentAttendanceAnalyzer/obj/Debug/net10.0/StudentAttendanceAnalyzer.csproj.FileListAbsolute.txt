@@ -1,0 +1,15 @@
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\bin\Debug\net10.0\StudentAttendanceAnalyzer.exe
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\bin\Debug\net10.0\StudentAttendanceAnalyzer.deps.json
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\bin\Debug\net10.0\StudentAttendanceAnalyzer.runtimeconfig.json
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\bin\Debug\net10.0\StudentAttendanceAnalyzer.dll
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\bin\Debug\net10.0\StudentAttendanceAnalyzer.pdb
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\obj\Debug\net10.0\StudentAttendanceAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\obj\Debug\net10.0\StudentAttendanceAnalyzer.AssemblyInfoInputs.cache
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\obj\Debug\net10.0\StudentAttendanceAnalyzer.AssemblyInfo.cs
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\obj\Debug\net10.0\StudentAttendanceAnalyzer.csproj.CoreCompileInputs.cache
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\obj\Debug\net10.0\StudentAttendanceAnalyzer.sourcelink.json
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\obj\Debug\net10.0\StudentAttendanceAnalyzer.dll
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\obj\Debug\net10.0\refint\StudentAttendanceAnalyzer.dll
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\obj\Debug\net10.0\StudentAttendanceAnalyzer.pdb
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\obj\Debug\net10.0\StudentAttendanceAnalyzer.genruntimeconfig.cache
+D:\Capgemini\Assignment\StudentAttendanceAnalyzer\obj\Debug\net10.0\ref\StudentAttendanceAnalyzer.dll

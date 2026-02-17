@@ -26,3 +26,18 @@ C:\Users\Arora Computers\Downloads\Assignment\BookStoreApplication\obj\Debug\net
 C:\Users\Arora Computers\Downloads\Assignment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.pdb
 C:\Users\Arora Computers\Downloads\Assignment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.genruntimeconfig.cache
 C:\Users\Arora Computers\Downloads\Assignment\BookStoreApplication\obj\Debug\net10.0\ref\BookStoreApplication.dll
+D:\Capgemini\Assignment\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.exe
+D:\Capgemini\Assignment\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.deps.json
+D:\Capgemini\Assignment\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.runtimeconfig.json
+D:\Capgemini\Assignment\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.dll
+D:\Capgemini\Assignment\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.pdb
+D:\Capgemini\Assignment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\Assignment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.AssemblyInfoInputs.cache
+D:\Capgemini\Assignment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.AssemblyInfo.cs
+D:\Capgemini\Assignment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.csproj.CoreCompileInputs.cache
+D:\Capgemini\Assignment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.sourcelink.json
+D:\Capgemini\Assignment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.dll
+D:\Capgemini\Assignment\BookStoreApplication\obj\Debug\net10.0\refint\BookStoreApplication.dll
+D:\Capgemini\Assignment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.pdb
+D:\Capgemini\Assignment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.genruntimeconfig.cache
+D:\Capgemini\Assignment\BookStoreApplication\obj\Debug\net10.0\ref\BookStoreApplication.dll

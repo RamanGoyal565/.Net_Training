@@ -1,0 +1,12 @@
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\bin\Debug\net10.0\DALReverse.deps.json
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\bin\Debug\net10.0\DALReverse.dll
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\bin\Debug\net10.0\DALReverse.pdb
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\obj\Debug\net10.0\DALReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\obj\Debug\net10.0\DALReverse.AssemblyInfoInputs.cache
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\obj\Debug\net10.0\DALReverse.AssemblyInfo.cs
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\obj\Debug\net10.0\DALReverse.csproj.CoreCompileInputs.cache
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\obj\Debug\net10.0\DALReverse.sourcelink.json
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\obj\Debug\net10.0\DALReverse.dll
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\obj\Debug\net10.0\refint\DALReverse.dll
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\obj\Debug\net10.0\DALReverse.pdb
+D:\Capgemini\MVC\DAL\DALReverse\DALReverse\obj\Debug\net10.0\ref\DALReverse.dll

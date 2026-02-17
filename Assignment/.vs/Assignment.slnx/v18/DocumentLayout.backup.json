@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\",
+  "WorkspaceRootPath": "D:\\Capgemini\\Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F1AB966-B13E-5A39-06CD-902552E880D0}|LogisticsPro\\LogisticsPro.csproj|c:\\users\\arora computers\\downloads\\assignment\\logisticspro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F1AB966-B13E-5A39-06CD-902552E880D0}|LogisticsPro\\LogisticsPro.csproj|solutionrelative:logisticspro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74735566-3423-4695-BE22-BAE7AE405CBD}|E-CommerceIS\\E-CommerceIS.csproj|d:\\capgemini\\assignment\\e-commerceis\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74735566-3423-4695-BE22-BAE7AE405CBD}|E-CommerceIS\\E-CommerceIS.csproj|solutionrelative:e-commerceis\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F1AB966-B13E-5A39-06CD-902552E880D0}|LogisticsPro\\LogisticsPro.csproj|c:\\users\\arora computers\\downloads\\assignment\\logisticspro\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F1AB966-B13E-5A39-06CD-902552E880D0}|LogisticsPro\\LogisticsPro.csproj|solutionrelative:logisticspro\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29D2931A-4960-4D66-B38C-A3B39254A1E4}|HealthSync\\HealthSync.csproj|c:\\users\\arora computers\\downloads\\assignment\\healthsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29D2931A-4960-4D66-B38C-A3B39254A1E4}|HealthSync\\HealthSync.csproj|solutionrelative:healthsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29D2931A-4960-4D66-B38C-A3B39254A1E4}|HealthSync\\HealthSync.csproj|c:\\users\\arora computers\\downloads\\assignment\\healthsync\\consulatant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29D2931A-4960-4D66-B38C-A3B39254A1E4}|HealthSync\\HealthSync.csproj|solutionrelative:healthsync\\consulatant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74735566-3423-4695-BE22-BAE7AE405CBD}|E-CommerceIS\\E-CommerceIS.csproj|d:\\capgemini\\assignment\\e-commerceis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74735566-3423-4695-BE22-BAE7AE405CBD}|E-CommerceIS\\E-CommerceIS.csproj|solutionrelative:e-commerceis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\LogisticsPro\\Program.cs",
-              "RelativeDocumentMoniker": "LogisticsPro\\Program.cs",
-              "ToolTip": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\LogisticsPro\\Program.cs",
-              "RelativeToolTip": "LogisticsPro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T10:18:52.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Shipment.cs",
-              "DocumentMoniker": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\LogisticsPro\\Shipment.cs",
-              "RelativeDocumentMoniker": "LogisticsPro\\Shipment.cs",
-              "ToolTip": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\LogisticsPro\\Shipment.cs",
-              "RelativeToolTip": "LogisticsPro\\Shipment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Assignment\\E-CommerceIS\\Program.cs",
+              "RelativeDocumentMoniker": "E-CommerceIS\\Program.cs",
+              "ToolTip": "D:\\Capgemini\\Assignment\\E-CommerceIS\\Program.cs",
+              "RelativeToolTip": "E-CommerceIS\\Program.cs",
+              "ViewState": "AgIAAFAAAAAANDMzMzPzv2kAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T10:18:51.362Z",
+              "WhenOpened": "2026-02-17T10:01:05.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Consulatant.cs",
-              "DocumentMoniker": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\HealthSync\\Consulatant.cs",
-              "RelativeDocumentMoniker": "HealthSync\\Consulatant.cs",
-              "ToolTip": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\HealthSync\\Consulatant.cs",
-              "RelativeToolTip": "HealthSync\\Consulatant.cs",
-              "ViewState": "AgIAABkAAACAmZmZmZkRwCwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Assignment\\E-CommerceIS\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "E-CommerceIS\\ProductRepository.cs",
+              "ToolTip": "D:\\Capgemini\\Assignment\\E-CommerceIS\\ProductRepository.cs",
+              "RelativeToolTip": "E-CommerceIS\\ProductRepository.cs",
+              "ViewState": "AgIAAGAAAAAAAwAAAAAcwHMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T09:19:38.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\HealthSync\\Program.cs",
-              "RelativeDocumentMoniker": "HealthSync\\Program.cs",
-              "ToolTip": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\HealthSync\\Program.cs",
-              "RelativeToolTip": "HealthSync\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T09:18:12.168Z",
+              "WhenOpened": "2026-02-17T09:11:04.019Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+D:\Capgemini\Assignment\TournamentRankingS\obj\Debug\net10.0\TournamentRankingS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\Assignment\TournamentRankingS\obj\Debug\net10.0\TournamentRankingS.AssemblyInfoInputs.cache
+D:\Capgemini\Assignment\TournamentRankingS\obj\Debug\net10.0\TournamentRankingS.AssemblyInfo.cs
+D:\Capgemini\Assignment\TournamentRankingS\obj\Debug\net10.0\TournamentRankingS.csproj.CoreCompileInputs.cache
+D:\Capgemini\Assignment\TournamentRankingS\obj\Debug\net10.0\TournamentRankingS.sourcelink.json
+D:\Capgemini\Assignment\TournamentRankingS\bin\Debug\net10.0\TournamentRankingS.exe
+D:\Capgemini\Assignment\TournamentRankingS\bin\Debug\net10.0\TournamentRankingS.deps.json
+D:\Capgemini\Assignment\TournamentRankingS\bin\Debug\net10.0\TournamentRankingS.runtimeconfig.json
+D:\Capgemini\Assignment\TournamentRankingS\bin\Debug\net10.0\TournamentRankingS.dll
+D:\Capgemini\Assignment\TournamentRankingS\bin\Debug\net10.0\TournamentRankingS.pdb
+D:\Capgemini\Assignment\TournamentRankingS\obj\Debug\net10.0\TournamentRankingS.dll
+D:\Capgemini\Assignment\TournamentRankingS\obj\Debug\net10.0\refint\TournamentRankingS.dll
+D:\Capgemini\Assignment\TournamentRankingS\obj\Debug\net10.0\TournamentRankingS.pdb
+D:\Capgemini\Assignment\TournamentRankingS\obj\Debug\net10.0\TournamentRankingS.genruntimeconfig.cache
+D:\Capgemini\Assignment\TournamentRankingS\obj\Debug\net10.0\ref\TournamentRankingS.dll

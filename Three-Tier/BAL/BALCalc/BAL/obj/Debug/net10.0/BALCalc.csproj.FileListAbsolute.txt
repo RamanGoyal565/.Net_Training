@@ -1,0 +1,16 @@
+D:\Capgemini\MVC\BAL\BAL\bin\Debug\net10.0\BALCalc.deps.json
+D:\Capgemini\MVC\BAL\BAL\bin\Debug\net10.0\BALCalc.dll
+D:\Capgemini\MVC\BAL\BAL\bin\Debug\net10.0\BALCalc.pdb
+D:\Capgemini\MVC\BAL\BAL\bin\Debug\net10.0\DALCalc.dll
+D:\Capgemini\MVC\BAL\BAL\bin\Debug\net10.0\DALCalc.pdb
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\BALCalc.csproj.AssemblyReference.cache
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\BALCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\BALCalc.AssemblyInfoInputs.cache
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\BALCalc.AssemblyInfo.cs
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\BALCalc.csproj.CoreCompileInputs.cache
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\BALCalc.sourcelink.json
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\BALCalc.csproj.Up2Date
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\BALCalc.dll
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\refint\BALCalc.dll
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\BALCalc.pdb
+D:\Capgemini\MVC\BAL\BAL\obj\Debug\net10.0\ref\BALCalc.dll

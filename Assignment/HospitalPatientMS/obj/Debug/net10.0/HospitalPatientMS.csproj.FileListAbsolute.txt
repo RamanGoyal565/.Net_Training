@@ -1,0 +1,15 @@
+D:\Capgemini\Assignment\HospitalPatientMS\bin\Debug\net10.0\HospitalPatientMS.exe
+D:\Capgemini\Assignment\HospitalPatientMS\bin\Debug\net10.0\HospitalPatientMS.deps.json
+D:\Capgemini\Assignment\HospitalPatientMS\bin\Debug\net10.0\HospitalPatientMS.runtimeconfig.json
+D:\Capgemini\Assignment\HospitalPatientMS\bin\Debug\net10.0\HospitalPatientMS.dll
+D:\Capgemini\Assignment\HospitalPatientMS\bin\Debug\net10.0\HospitalPatientMS.pdb
+D:\Capgemini\Assignment\HospitalPatientMS\obj\Debug\net10.0\HospitalPatientMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\Assignment\HospitalPatientMS\obj\Debug\net10.0\HospitalPatientMS.AssemblyInfoInputs.cache
+D:\Capgemini\Assignment\HospitalPatientMS\obj\Debug\net10.0\HospitalPatientMS.AssemblyInfo.cs
+D:\Capgemini\Assignment\HospitalPatientMS\obj\Debug\net10.0\HospitalPatientMS.csproj.CoreCompileInputs.cache
+D:\Capgemini\Assignment\HospitalPatientMS\obj\Debug\net10.0\HospitalPatientMS.sourcelink.json
+D:\Capgemini\Assignment\HospitalPatientMS\obj\Debug\net10.0\HospitalPatientMS.dll
+D:\Capgemini\Assignment\HospitalPatientMS\obj\Debug\net10.0\refint\HospitalPatientMS.dll
+D:\Capgemini\Assignment\HospitalPatientMS\obj\Debug\net10.0\HospitalPatientMS.pdb
+D:\Capgemini\Assignment\HospitalPatientMS\obj\Debug\net10.0\HospitalPatientMS.genruntimeconfig.cache
+D:\Capgemini\Assignment\HospitalPatientMS\obj\Debug\net10.0\ref\HospitalPatientMS.dll

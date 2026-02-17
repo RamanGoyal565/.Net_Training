@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arora Computers\\Downloads\\Assignment\\BookStoreApplication\\BookStoreApplication.csproj": {}
+    "D:\\Capgemini\\Assignment\\BookStoreApplication\\BookStoreApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arora Computers\\Downloads\\Assignment\\BookStoreApplication\\BookStoreApplication.csproj": {
+    "D:\\Capgemini\\Assignment\\BookStoreApplication\\BookStoreApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\BookStoreApplication\\BookStoreApplication.csproj",
+        "projectUniqueName": "D:\\Capgemini\\Assignment\\BookStoreApplication\\BookStoreApplication.csproj",
         "projectName": "BookStoreApplication",
-        "projectPath": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\BookStoreApplication\\BookStoreApplication.csproj",
+        "projectPath": "D:\\Capgemini\\Assignment\\BookStoreApplication\\BookStoreApplication.csproj",
         "packagesPath": "C:\\Users\\Arora Computers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\BookStoreApplication\\obj\\",
+        "outputPath": "D:\\Capgemini\\Assignment\\BookStoreApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

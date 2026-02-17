@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arora Computers\\Downloads\\Assignment\\HealthSync\\HealthSync.csproj": {}
+    "D:\\Capgemini\\Assignment\\HealthSync\\HealthSync.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arora Computers\\Downloads\\Assignment\\HealthSync\\HealthSync.csproj": {
+    "D:\\Capgemini\\Assignment\\HealthSync\\HealthSync.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\HealthSync\\HealthSync.csproj",
+        "projectUniqueName": "D:\\Capgemini\\Assignment\\HealthSync\\HealthSync.csproj",
         "projectName": "HealthSync",
-        "projectPath": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\HealthSync\\HealthSync.csproj",
+        "projectPath": "D:\\Capgemini\\Assignment\\HealthSync\\HealthSync.csproj",
         "packagesPath": "C:\\Users\\Arora Computers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arora Computers\\Downloads\\Assignment\\HealthSync\\obj\\",
+        "outputPath": "D:\\Capgemini\\Assignment\\HealthSync\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
