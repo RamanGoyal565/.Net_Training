@@ -151,8 +151,8 @@ class Program
         // TryExcept obj=new TryExcept();
         // obj.main();
 
-        // RegExpression obj=new RegExpression();
-        // obj.func1();
+        RegExpression obj=new RegExpression();
+        obj.func1();
 
         // LogProcessing.LogParser obj=new LogProcessing.LogParser();
         // obj.main();
