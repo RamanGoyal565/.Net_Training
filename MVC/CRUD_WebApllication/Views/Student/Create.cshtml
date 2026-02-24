@@ -1,0 +1,28 @@
+﻿@model CRUD_WebApllication.Models.Student
+
+<h2>Create Student</h2>
+
+<form method="get" asp-action="Create">
+
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Age</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <button type="submit">Save</button>
+</form>
+
+<div asp-validation-summary="All" style="color:red"></div>
+
+<a asp-action="Index">Back</a>

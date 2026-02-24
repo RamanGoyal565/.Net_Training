@@ -1,0 +1,45 @@
+﻿@model CRUD_WebApllication.Models.Student
+
+<h2>Update Student</h2>
+
+<!-- STEP 1: Enter ID -->
+<form method="get" asp-action="Update">
+    Enter ID:
+    <input type="number" name="id" />
+    <button type="submit">Search</button>
+</form>
+
+<br />
+
+@if (Model != null && Model.Id != 0)
+{
+    <hr />
+
+    <!-- STEP 2: Show old details -->
+    <form method="get" asp-action="Update">
+
+        <input type="hidden" asp-for="Id" />
+
+        <div>
+            <label>Name</label>
+            <input asp-for="Name" />
+            <span asp-validation-for="Name" style="color:red"></span>
+        </div>
+
+        <br />
+
+        <div>
+            <label>Age</label>
+            <input asp-for="Age" />
+            <span asp-validation-for="Age" style="color:red"></span>
+        </div>
+
+        <br />
+
+        <button type="submit">Update</button>
+    </form>
+
+    <div asp-validation-summary="All" style="color:red"></div>
+}
+
+<a asp-action="Index">Back</a>
