@@ -1,0 +1,19 @@
+﻿@model EmployeeAppl.Models.Employee
+
+<h2>Delete Confirmation</h2>
+
+<h3>Are you sure you want to delete this employee?</h3>
+
+<div>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Address:</strong> @Model.Address</p>
+    <p><strong>Adhaar:</strong> @Model.Adhaar</p>
+    <p><strong>Date Of Birth:</strong> @Model.DateOfBirth.ToShortDateString()</p>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit">Yes, Delete</button>
+    <a asp-action="Index">Cancel</a>
+</form>

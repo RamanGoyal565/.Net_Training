@@ -1,0 +1,42 @@
+﻿@model EmployeeAppl.Models.Employee
+
+<h1 class="form-title">Employee Application</h1>
+
+<form asp-action="Create" method="post" class="employee-form">
+
+    <div class="form-group">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-input" />
+        <span asp-validation-for="Name" class="form-error"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Address" class="form-label"></label>
+        <input asp-for="Address" class="form-input" />
+        <span asp-validation-for="Address" class="form-error"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Adhaar" class="form-label"></label>
+        <input asp-for="Adhaar" class="form-input" />
+        <span asp-validation-for="Adhaar" class="form-error"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DateOfBirth" class="form-label"></label>
+        <input asp-for="DateOfBirth" type="date" class="form-input" />
+        <span asp-validation-for="DateOfBirth" class="form-error"></span>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="form-button">Submit</button>
+        <button type="reset" class="form-button-secondary">Reset</button>
+    </div>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<EmployeeAppl.Models.Employee>
+
+<h2>Employee List</h2>
+
+<a asp-action="Create">Add New Employee</a>
+
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Adhaar</th>
+            <th>Date Of Birth</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Address</td>
+                <td>@item.Adhaar</td>
+                <td>@item.DateOfBirth.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
