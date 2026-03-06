@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc;
 using DraftApp.Models;
 using DraftApp.Services;
 
@@ -19,12 +13,88 @@ namespace DraftApp.Controllers
             _service = service;
         }
 
-        // GET: Students
-        public async Task<IActionResult> Index(string q=null)
+        // LIST + SEARCH
+        public async Task<IActionResult> Index(string? q = null)
         {
             var items = await _service.SearchAsync(q);
             ViewBag.querry = q ?? "";
             return View(items);
+        }
+
+        // DETAILS
+        public async Task<IActionResult> Details(int id)
+        {
+            var student = await _service.GetAsync(id);
+
+            if (student == null)
+                return NotFound();
+
+            return View(student);
+        }
+
+        // CREATE
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(Student student)
+        {
+            if (ModelState.IsValid)
+            {
+                await _service.CreateAsync(student);
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(student);
+        }
+
+        // EDIT
+        public async Task<IActionResult> Edit(int id)
+        {
+            var student = await _service.GetAsync(id);
+
+            if (student == null)
+                return NotFound();
+
+            return View(student);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, Student student)
+        {
+            if (id != student.StudentId)
+                return NotFound();
+
+            if (ModelState.IsValid)
+            {
+                await _service.UpdateAsync(student);
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(student);
+        }
+
+        // DELETE
+        public async Task<IActionResult> Delete(int id)
+        {
+            var student = await _service.GetAsync(id);
+
+            if (student == null)
+                return NotFound();
+
+            return View(student);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            await _service.DeleteAsync(id);
+            return RedirectToAction(nameof(Index));
         }
     }
 }
