@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using MVCWithRepo.Data;
+﻿using MVCWithRepo.Data;
 using MVCWithRepo.Models;
 namespace MVCWithRepo.Repositories
 {
