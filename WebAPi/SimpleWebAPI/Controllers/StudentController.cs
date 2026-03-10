@@ -25,8 +25,14 @@ namespace SimpleWebAPI.Controllers
         [HttpGet("add")]
         public IActionResult Add(int a, int b, int c)
         {
-            int sum = a + b + c;
-            return Ok(sum);
+            if (a < 100 && b < 100 && c < 100 && a > 0 && b > 0 && c > 0)
+            {
+
+                int sum = a + b + c;
+                return Ok(sum);
+            }
+            return BadRequest("Value must be between 1 and 100");
         }
+        
     }
 }
