@@ -1,0 +1,23 @@
+﻿@model StudentManagement_ID_.Models.Student
+
+<h2>Student ID Card</h2>
+
+<div style="border:2px solid black; width:300px; padding:15px">
+
+    <h3>@Model.Name</h3>
+
+    <p><b>Student ID:</b> @Model.Id</p>
+
+    <p><b>Email:</b> @Model.Email</p>
+
+    <p><b>Phone:</b> @Model.PhoneNumber</p>
+
+    <p><b>Major:</b> @Model.Major</p>
+
+</div>
+
+<br>
+
+<a href="/Student/Dashboard">
+    <button>Back to Dashboard</button>
+</a>

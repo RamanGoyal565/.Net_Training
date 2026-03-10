@@ -1,0 +1,33 @@
+﻿@model List<SeedingData.Models.Customer>
+
+<h2>Customers with Orders</h2>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Product Name</th>
+        <th>Amount</th>
+    </tr>
+
+    @foreach (var customer in Model)
+    {
+        if (customer.Orders != null && customer.Orders.Count > 0)
+        {
+            foreach (var order in customer.Orders)
+            {
+                <tr>
+                    <td>@customer.Name</td>
+                    <td>@order.ProductName</td>
+                    <td>@order.Amount</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td>@customer.Name</td>
+                <td colspan="2">No Orders</td>
+            </tr>
+        }
+    }
+</table>

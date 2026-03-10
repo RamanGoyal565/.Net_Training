@@ -1,0 +1,39 @@
+﻿@model List<StudentManagement_ID_.Models.Semester>
+
+<a href="/Student/AddSemester">
+    <button>Add Semester</button>
+</a>
+<h2>Semester Marks</h2>
+
+<table border="1" cellpadding="10">
+
+    <tr>
+        <th>Semester</th>
+        <th>GPA</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var sem in Model)
+    {
+        <tr>
+
+            <td>@sem.Name</td>
+
+            <td>@sem.GPA</td>
+
+            <td>
+                <a href="/Student/EditSemester/@sem.Id">
+                    <button>Edit</button>
+                </a>
+            </td>
+
+        </tr>
+    }
+
+</table>
+
+<br>
+
+<a href="/Student/Dashboard">
+    <button>Back</button>
+</a>

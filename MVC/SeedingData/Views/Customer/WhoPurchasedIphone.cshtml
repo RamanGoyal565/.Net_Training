@@ -1,0 +1,22 @@
+﻿@model List<SeedingData.Models.Order>
+
+<h2>Customers whose purchased Iphone</h2>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Amount</th>
+        <th>Product Name</th>
+    </tr>
+
+    @foreach (var o in Model)
+    {
+        
+        <tr>
+            <td>@o.Customer.Name</td>
+            <td>@o.Amount</td>
+            <td>@o.ProductName</td>
+        </tr>
+    }
+
+</table>

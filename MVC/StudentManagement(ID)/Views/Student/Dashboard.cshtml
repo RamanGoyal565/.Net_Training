@@ -1,0 +1,39 @@
+﻿@model StudentManagement_ID_.Models.Student
+
+<h2>Student Dashboard</h2>
+
+<p>Welcome <b>@Model.Name</b></p>
+
+<hr>
+
+<h3>Your Details</h3>
+
+<p><b>Email:</b> @Model.Email</p>
+
+<p><b>Phone:</b> @Model.PhoneNumber</p>
+
+<p><b>Address:</b> @Model.Address</p>
+
+<p><b>Major:</b> @Model.Major</p>
+
+<hr>
+
+<h3>Options</h3>
+
+<a href="/Student/IdCard">
+    <button>View ID Card</button>
+</a>
+
+<br>
+<br>
+
+<a href="/Student/Semesters">
+    <button>View Semester Marks</button>
+</a>
+
+<br>
+<br>
+
+<a href="/Student/Logout">
+    <button>Logout</button>
+</a>

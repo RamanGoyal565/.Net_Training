@@ -1,0 +1,26 @@
+﻿@model StudentManagementOneToMany.Models.Student
+
+<h2>Edit Student</h2>
+
+<form method="post">
+
+    <input type="hidden" name="StudentId" value="@Model.StudentId" />
+
+    <label>Name</label>
+    <input type="text" name="Name" value="@Model.Name" />
+
+    <br />
+
+    <label>City</label>
+    <input type="text" name="City" value="@Model.City" />
+
+    <br />
+
+    <label>Room Id</label>
+    <input type="number" name="HostelRoomId" value="@Model.HostelRoomId" />
+
+    <br />
+
+    <button type="submit">Update</button>
+
+</form>
